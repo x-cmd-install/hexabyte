@@ -4,13 +4,25 @@
 
 A modern, modular, and robust TUI hex editor.
 
-![hexabyte](https://repo.x-cmd.io/hexabyte.svg)
+![hexabyte](https://repo.x-cmd.io/hexabyte.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install hexabyte
 ```
+
+## 代码规模
+
+合计: **4,572** 行代码（覆盖前 5 种语言、共 **78** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 4,251 | 29 | 814 | 73 |
+| Toml | 247 | 6 | 36 | 2 |
+| Makefile | 51 | 0 | 17 | 1 |
+| Css | 16 | 0 | 1 | 1 |
+| C | 4 | 0 | 1 | 1 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install hexabyte
 - **最新版本**: `v0.8.7` (2024-03-20)
 - **最近提交**: 2024-03-20
 - **Release 含资产**: 2 个
-- **发布时间**: 2024-03-20T23:56:43Z
 
 ## 流行度
 
@@ -38,20 +49,18 @@ x install hexabyte
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 4 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 4 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **4,572** 行代码（覆盖前 5 种语言、共 **78** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 4,251 | 29 | 814 | 73 |
-| Toml | 247 | 6 | 36 | 2 |
-| Makefile | 51 | 0 | 17 | 1 |
-| Css | 16 | 0 | 1 | 1 |
-| C | 4 | 0 | 1 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hexabyte-0.8.7-py3-none-any.whl](https://github.com/thetacom/hexabyte/releases/download/v0.8.7/hexabyte-0.8.7-py3-none-any.whl) | 69.3 KiB | `other` |
+| [hexabyte-0.8.7.tar.gz](https://github.com/thetacom/hexabyte/releases/download/v0.8.7/hexabyte-0.8.7.tar.gz) | 47.1 KiB | `native/unknown` |
 
 ## 改进这些数据
 
@@ -62,4 +71,4 @@ hexabyte 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:51:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:42:41Z._
