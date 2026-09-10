@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 71011,
       "digest": null,
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2024-03-20T23:52:05Z",
       "updated_at": "2024-03-20T23:52:05Z",
       "browser_download_url": "https://github.com/thetacom/hexabyte/releases/download/v0.8.7/hexabyte-0.8.7-py3-none-any.whl"
