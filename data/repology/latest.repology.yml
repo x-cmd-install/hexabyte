@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: hexabyte
+  binname: hexabyte
+  visiblename: hexabyte
+  version: 0.8.7
+  origversion: 0.8.7-1
+  status: unique
+  summary: A modern, modular, and robust TUI hex editor
+  maintainers:
+    - alex.henrie@aur
+  licenses:
+    - GPL3
